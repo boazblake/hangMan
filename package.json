@@ -1,0 +1,15 @@
+{
+    "name": "flems",
+    "version": "0.1.0",
+    "description": "Created on https://flems.io",
+    "dependencies": {
+        "mithril": "1.1.6",
+        "bulma": "0.7.2"
+    },
+    "scripts": {
+        "dev": "wright index.html"
+    },
+    "devDependencies": {
+        "wright": "*"
+    }
+}

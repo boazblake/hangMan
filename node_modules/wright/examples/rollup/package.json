@@ -1,0 +1,13 @@
+{
+  "name": "wright-example-rollup",
+  "version": "1.0.0",
+  "scripts": {
+    "wright": "node wright.js"
+  },
+  "dependencies": {
+    "rollup": "0.34.1"
+  },
+  "devDependencies": {
+    "stylus": "0.54.5"
+  }
+}
